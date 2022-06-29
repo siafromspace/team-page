@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{my-team-page247.netlify.app}">
       Demo
     </a>
     <span> | </span>
@@ -28,15 +28,13 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![teampage1](https://user-images.githubusercontent.com/101575004/176543504-23de0f1b-d201-4482-935d-705482206f9e.png)
+![teampage2](https://user-images.githubusercontent.com/101575004/176543531-708170da-8503-4576-97ba-ba1a4d97120b.png)
 
 
 ### Built With
